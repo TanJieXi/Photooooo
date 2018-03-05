@@ -23,6 +23,9 @@ public class MainActivity extends AppCompatActivity {
         RxGalleryFinal
                 .with(this)
                 .image()
+
+
+
                 .radio()
                 .cropOvalDimmedLayer(true)
                 //.crop()
